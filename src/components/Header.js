@@ -10,7 +10,7 @@ function Header({ status }) { // NOVO: Recebe 'status' como prop
       <img src={imageUrl} alt="Foto de Perfil" className="profile-pic" />
       <div className="chat-info">
         <div className="chat-name-container">
-          <span className="chat-name">Thaisinha</span>
+          <span className="chat-name">gabyzinha safadinha</span>
           <img
             src="https://i.imgur.com/BwSw5kR.png"
             alt="Selo de Verificado"
