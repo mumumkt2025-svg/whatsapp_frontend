@@ -7,7 +7,7 @@ import Header from './components/Header';
 import ChatWindow from './components/ChatWindow';
 import MessageInput from './components/MessageInput';
 
-const socket = io('https://whatsapp-backend-vott.onrender.com');
+const socket = io('https://whatsapp-backend-uql2.onrender.com/');
 
 function App() {
   const [messages, setMessages] = useState([
